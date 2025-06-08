@@ -26,11 +26,17 @@ SafePlace é uma aplicação backend desenvolvida com o objetivo de auxiliar pes
 
 SafePlaceAPI/
 ├── Controller/
+
 ├── Model/
+
 ├── Repository/
+
 ├── Service/
+
 ├── Security/
+
 ├── Config/
+
 └── application.properties
 
 ## 🚀 Como Executar o Projeto
