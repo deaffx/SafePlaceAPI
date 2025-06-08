@@ -25,6 +25,7 @@ SafePlace é uma aplicação backend desenvolvida com o objetivo de auxiliar pes
 ## 📁 Estrutura de Diretórios
 
 SafePlaceAPI/
+
 ├── Controller/
 
 ├── Model/
