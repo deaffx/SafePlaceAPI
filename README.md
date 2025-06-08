@@ -25,13 +25,13 @@ SafePlace é uma aplicação backend desenvolvida com o objetivo de auxiliar pes
 ## 📁 Estrutura de Diretórios
 
 SafePlaceAPI/
-├── Controller/         -> Camada responsável pelos endpoints REST
-├── Model/              -> Entidades JPA que representam as tabelas do banco
-├── Repository/         -> Interfaces para acesso aos dados (Spring Data JPA)
-├── Service/            -> Camada de regras de negócio
-├── Security/           -> Configurações de autenticação e autorização com JWT
-├── Config/             -> Configurações gerais do projeto (CORS, Swagger, etc.)
-└── application.properties -> Configurações da aplicação
+├── Controller/
+├── Model/
+├── Repository/
+├── Service/
+├── Security/
+├── Config/
+└── application.properties
 
 ## 🚀 Como Executar o Projeto
 
