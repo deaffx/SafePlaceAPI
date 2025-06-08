@@ -1,6 +1,6 @@
 # SafePlace API
 
-SafePlace é uma aplicação backend desenvolvida com o objetivo de auxiliar pessoas em situações de emergência, permitindo a localização de abrigos e pontos de doação por meio de um sistema seguro e de fácil acesso. O projeto conta ainda com integração futura com uma solução IoT baseada em um botão de emergência comunitário.
+SafePlace é uma aplicação backend desenvolvida com o objetivo de auxiliar pessoas em situações de emergência, permitindo a localização de abrigos por meio de um sistema seguro e de fácil acesso. O projeto conta ainda com integração futura com uma solução IoT baseada em um botão de emergência comunitário.
 
 ## 👥 Integrantes
 
